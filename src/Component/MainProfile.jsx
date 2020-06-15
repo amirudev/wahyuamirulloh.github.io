@@ -26,7 +26,7 @@ class MainProfile extends Component{
                                 <img src={Profileimg} style={{width: "20%"}} className="rounded-circle"/>
                                 </div>
                                 <br/>
-                                <p className="d-flex justify-content-center">Wahyu Amirulloh</p>
+                                <p className="d-flex justify-content-center"><b>Wahyu Amirulloh</b></p>
                                 <p className="d-flex justify-content-center">Front End Web Developer</p>
                                 <br/><br/><br/><br/>
                             </div>
